@@ -1,5 +1,5 @@
     nexus
-    sistema distribuído de observabilidade e monitoramento em tempo real.
+sistema distribuído de observabilidade e monitoramento em tempo real.
 o nexus é uma plataforma de observabilidade projetada para coletar, processar, armazenar e transmitir métricas de infraestrutura em tempo real.
 a arquitetura foi desenvolvida com foco em modularidade, baixo acoplamento, comunicação assíncrona, escalabilidade e tolerância a falhas.
 ---
